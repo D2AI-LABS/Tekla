@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "COLUMN": "SHS100X100X5",
+    "BEAM": "RHS100X50X5",
+    "SECONDARY": "L60X60X5"
+  },
+  "material": "S275"
+}

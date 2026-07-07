@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+
+    <!-- IMPORTANT for Tekla + dynamic support -->
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <!-- ========================= -->
+  <!-- NUGET PACKAGES -->
+  <!-- ========================= -->
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <!-- ========================= -->
+  <!-- SYSTEM REFERENCES -->
+  <!-- ========================= -->
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Core" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Runtime.Serialization" />
+
+    <!-- 🔥 FIX FOR CS0656 ERROR -->
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+
+  <!-- ========================= -->
+  <!-- TEKLA REFERENCES -->
+  <!-- ========================= -->
+  <ItemGroup>
+
+    <Reference Include="Tekla.Structures">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Net48Runtime\Tekla.Structures.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+
+    <Reference Include="Tekla.Structures.Model">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Tekla.Structures.Model.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+
+    <Reference Include="Tekla.Structures.Catalogs">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Tekla.Structures.Catalogs.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+
+
+
+    <Reference Include="Tekla.Structures.Plugins">
+      <HintPath>C:\TeklaStructures\2026.0\bin\Net48Runtime\Tekla.Structures.Plugins.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+
+  </ItemGroup>
+
+</Project>

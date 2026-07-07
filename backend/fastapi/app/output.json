@@ -1,0 +1,6455 @@
+[
+  {
+    "Id": 18292,
+    "Guid": "a3a6e412-0a62-4db0-9c42-1376033a03d7",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": -1.2789769243681803e-13,
+      "Y": 4000.000000000013,
+      "Z": 2.993161274389422e-13
+    },
+    "EndPoint": {
+      "X": 99.99999999999915,
+      "Y": 3899.999999999449,
+      "Z": 3000.000000000018
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999999928,
+      "DeltaY": -100.00000000056434,
+      "DeltaZ": 3000.0000000000177,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18265,
+    "Guid": "9a318933-8139-429b-8ab3-fd206e3eb5c6",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 4000.000000000013,
+      "Y": 4000.000000000013,
+      "Z": 7.696066006701585e-13
+    },
+    "EndPoint": {
+      "X": 3899.999999999456,
+      "Y": 3899.999999999456,
+      "Z": 3000.000000000037
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000055707,
+      "DeltaY": -100.00000000055707,
+      "DeltaZ": 3000.000000000036,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18238,
+    "Guid": "82dca2ce-a7cb-42bb-9958-7c7fc2c73105",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 4000.000000000013,
+      "Y": -1.0658141036401503e-13,
+      "Z": 2.9887203822909214e-13
+    },
+    "EndPoint": {
+      "X": 3899.999999999449,
+      "Y": 99.99999999999916,
+      "Z": 3000.000000000018
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000056434,
+      "DeltaY": 99.99999999999926,
+      "DeltaZ": 3000.0000000000177,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18209,
+    "Guid": "000937fc-4db6-4a5d-b224-15075f7368ec",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": -1.7053025658242404e-13,
+      "Y": -1.7053025658242404e-13,
+      "Z": -1.6964207816272392e-13
+    },
+    "EndPoint": {
+      "X": 100.00000000000747,
+      "Y": 100.00000000000747,
+      "Z": 3000.0
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000000765,
+      "DeltaY": 100.00000000000765,
+      "DeltaZ": 3000.0,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18182,
+    "Guid": "24b43377-9b66-4875-af48-7b761f05bea1",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 0.0,
+      "Y": 4000.0,
+      "Z": 0.0
+    },
+    "EndPoint": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -4000.0,
+      "DeltaZ": 0.0,
+      "Length": 4000.0
+    }
+  },
+  {
+    "Id": 18155,
+    "Guid": "62eef1f6-f1d1-49d4-b4df-0f529098b453",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 4000.0,
+      "Y": 4000.0,
+      "Z": 0.0
+    },
+    "EndPoint": {
+      "X": 0.0,
+      "Y": 4000.0,
+      "Z": 0.0
+    },
+    "Geometry": {
+      "DeltaX": -4000.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 4000.0
+    }
+  },
+  {
+    "Id": 18130,
+    "Guid": "506ad86b-585b-4b65-881e-7fd99a044dc0",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 4000.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "EndPoint": {
+      "X": 4000.0,
+      "Y": 4000.0,
+      "Z": 0.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 4000.0,
+      "DeltaZ": 0.0,
+      "Length": 4000.0
+    }
+  },
+  {
+    "Id": 18103,
+    "Guid": "f3a501b8-a8c0-465e-98da-de8045701821",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "EndPoint": {
+      "X": 4000.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Geometry": {
+      "DeltaX": 4000.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 4000.0
+    }
+  },
+  {
+    "Id": 18554,
+    "Guid": "09aa857e-2e13-453e-8348-526c91867102",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3900.0000000000127,
+      "Y": 100.00000000000003,
+      "Z": 2999.999999999998
+    },
+    "EndPoint": {
+      "X": 3799.999999999545,
+      "Y": 199.99999999988154,
+      "Z": 5999.999999999798
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000046794,
+      "DeltaY": 99.99999999988151,
+      "DeltaZ": 2999.9999999998,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18529,
+    "Guid": "6ca22e7c-6ab4-4b7d-b694-0d33000f7afb",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 100.00000000000063,
+      "Y": 100.00000000000063,
+      "Z": 2999.9999999999977
+    },
+    "EndPoint": {
+      "X": 199.99999999988836,
+      "Y": 199.99999999988836,
+      "Z": 5999.99999999978
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988773,
+      "DeltaY": 99.99999999988773,
+      "DeltaZ": 2999.999999999782,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18502,
+    "Guid": "d94bd394-d854-468c-b8ba-f90deb3612e3",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3.923861235932691e-12,
+      "Y": 3999.9999999999914,
+      "Z": -3.2436275887448573e-12
+    },
+    "EndPoint": {
+      "X": 99.99999999934592,
+      "Y": 99.99999999957254,
+      "Z": 3000.0000000003947
+    },
+    "Geometry": {
+      "DeltaX": 99.999999999342,
+      "DeltaY": -3900.000000000419,
+      "DeltaZ": 3000.000000000398,
+      "Length": 4921.4
+    }
+  },
+  {
+    "Id": 18475,
+    "Guid": "a90d45a9-dc58-43c9-9fd0-67ff20393ce8",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3999.999999999992,
+      "Y": 3999.9999999999955,
+      "Z": -3.161915174132446e-12
+    },
+    "EndPoint": {
+      "X": 99.99999999958163,
+      "Y": 3900.0000000012305,
+      "Z": 3000.000000000388
+    },
+    "Geometry": {
+      "DeltaX": -3900.00000000041,
+      "DeltaY": -99.9999999987649,
+      "DeltaZ": 3000.000000000391,
+      "Length": 4921.4
+    }
+  },
+  {
+    "Id": 18448,
+    "Guid": "3be1f3ee-88a8-41f9-984d-14738042a8cd",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3999.999999999999,
+      "Y": 6.750155989720952e-14,
+      "Z": 6.039613253960852e-14
+    },
+    "EndPoint": {
+      "X": 3900.0000000005816,
+      "Y": 3899.9999999999673,
+      "Z": 2999.9999999999854
+    },
+    "Geometry": {
+      "DeltaX": -99.99999999941747,
+      "DeltaY": 3899.9999999999673,
+      "DeltaZ": 2999.9999999999854,
+      "Length": 4921.4
+    }
+  },
+  {
+    "Id": 18421,
+    "Guid": "f58fc099-d5b4-461a-971f-5f745735077f",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3.197442310920451e-14,
+      "Y": -2.4147350785597155e-14,
+      "Z": 4.618527782440651e-14
+    },
+    "EndPoint": {
+      "X": 3899.999999999976,
+      "Y": 99.99999999999442,
+      "Z": 2999.999999999993
+    },
+    "Geometry": {
+      "DeltaX": 3899.999999999976,
+      "DeltaY": 99.99999999999444,
+      "DeltaZ": 2999.999999999993,
+      "Length": 4921.4
+    }
+  },
+  {
+    "Id": 18396,
+    "Guid": "816ae918-1b5a-4130-8d28-db0eac506450",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 100.0,
+      "Y": 3900.0,
+      "Z": 3000.0
+    },
+    "EndPoint": {
+      "X": 100.0,
+      "Y": 100.0,
+      "Z": 3000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -3800.0,
+      "DeltaZ": 0.0,
+      "Length": 3800.0
+    }
+  },
+  {
+    "Id": 18371,
+    "Guid": "cd4beb47-d9c6-4818-99e9-a60baada82d2",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3900.0,
+      "Y": 3900.0,
+      "Z": 3000.0
+    },
+    "EndPoint": {
+      "X": 100.0,
+      "Y": 3900.0,
+      "Z": 3000.0
+    },
+    "Geometry": {
+      "DeltaX": -3800.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3800.0
+    }
+  },
+  {
+    "Id": 18346,
+    "Guid": "d968c230-31b9-4707-8b2c-5a8ef019c19e",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3900.0,
+      "Y": 100.0,
+      "Z": 3000.0
+    },
+    "EndPoint": {
+      "X": 3900.0,
+      "Y": 3900.0,
+      "Z": 3000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 3800.0,
+      "DeltaZ": 0.0,
+      "Length": 3800.0
+    }
+  },
+  {
+    "Id": 18321,
+    "Guid": "8f2f86fd-7def-4212-8f48-320269688183",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 100.0,
+      "Y": 100.0,
+      "Z": 3000.0
+    },
+    "EndPoint": {
+      "X": 3900.0,
+      "Y": 100.0,
+      "Z": 3000.0
+    },
+    "Geometry": {
+      "DeltaX": 3800.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3800.0
+    }
+  },
+  {
+    "Id": 19091,
+    "Guid": "170beeda-0518-4c51-9db9-72b1e5077f22",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3799.9999999999964,
+      "Y": 3799.999999999994,
+      "Z": 5999.99999999999
+    },
+    "EndPoint": {
+      "X": 299.9999999984352,
+      "Y": 3699.9999999982583,
+      "Z": 8999.999999999322
+    },
+    "Geometry": {
+      "DeltaX": -3500.000000001561,
+      "DeltaY": -100.00000000173577,
+      "DeltaZ": 2999.9999999993315,
+      "Length": 4610.9
+    }
+  },
+  {
+    "Id": 19064,
+    "Guid": "3026021b-1320-437a-8b91-7f6ebd121c07",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3799.99999999999,
+      "Y": 200.00000000000128,
+      "Z": 5999.999999999993
+    },
+    "EndPoint": {
+      "X": 3699.9999999989527,
+      "Y": 3700.0000000012346,
+      "Z": 8999.999999999121
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000103728,
+      "DeltaY": 3500.0000000012333,
+      "DeltaZ": 2999.9999999991287,
+      "Length": 4610.9
+    }
+  },
+  {
+    "Id": 19037,
+    "Guid": "872b68c3-3de2-4028-887f-01fb71622577",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 200.00000000000085,
+      "Y": 200.00000000000466,
+      "Z": 5999.999999999994
+    },
+    "EndPoint": {
+      "X": 3700.000000001256,
+      "Y": 300.0000000004927,
+      "Z": 8999.999999999083
+    },
+    "Geometry": {
+      "DeltaX": 3500.000000001255,
+      "DeltaY": 100.00000000048806,
+      "DeltaZ": 2999.9999999990896,
+      "Length": 4610.9
+    }
+  },
+  {
+    "Id": 19012,
+    "Guid": "3cb76e88-af82-4414-9654-fe7963858308",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 300.0,
+      "Y": 3700.0,
+      "Z": 9000.0
+    },
+    "EndPoint": {
+      "X": 300.0,
+      "Y": 300.0,
+      "Z": 9000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -3400.0,
+      "DeltaZ": 0.0,
+      "Length": 3400.0
+    }
+  },
+  {
+    "Id": 18987,
+    "Guid": "2ae14b9b-db59-464c-acb6-a62fb41fa616",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3700.0,
+      "Y": 3700.0,
+      "Z": 9000.0
+    },
+    "EndPoint": {
+      "X": 300.0,
+      "Y": 3700.0,
+      "Z": 9000.0
+    },
+    "Geometry": {
+      "DeltaX": -3400.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3400.0
+    }
+  },
+  {
+    "Id": 18962,
+    "Guid": "ee29516c-fbc7-42aa-89e2-d0a9ffb409e7",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3700.0,
+      "Y": 300.0,
+      "Z": 9000.0
+    },
+    "EndPoint": {
+      "X": 3700.0,
+      "Y": 3700.0,
+      "Z": 9000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 3400.0,
+      "DeltaZ": 0.0,
+      "Length": 3400.0
+    }
+  },
+  {
+    "Id": 18937,
+    "Guid": "fdbafd6f-1158-40e8-820a-49471b78220d",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 300.0,
+      "Y": 300.0,
+      "Z": 9000.0
+    },
+    "EndPoint": {
+      "X": 3700.0,
+      "Y": 300.0,
+      "Z": 9000.0
+    },
+    "Geometry": {
+      "DeltaX": 3400.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3400.0
+    }
+  },
+  {
+    "Id": 18912,
+    "Guid": "09c0eccf-7f4a-4688-8138-fcad423e1d9e",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 199.9999999999991,
+      "Y": 3800.000000000013,
+      "Z": 6000.000000000023
+    },
+    "EndPoint": {
+      "X": 299.99999999996953,
+      "Y": 3699.999999999498,
+      "Z": 9000.000000002554
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999997044,
+      "DeltaY": -100.00000000051523,
+      "DeltaZ": 3000.000000002531,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18887,
+    "Guid": "71cde14b-c051-446e-b95a-78e35fc96f91",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3800.0000000000146,
+      "Y": 3800.0000000000146,
+      "Z": 6000.000000000023
+    },
+    "EndPoint": {
+      "X": 3699.9999999995075,
+      "Y": 3699.9999999995075,
+      "Z": 9000.00000000257
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000050704,
+      "DeltaY": -100.00000000050704,
+      "DeltaZ": 3000.0000000025475,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18862,
+    "Guid": "10758cec-e471-4ed0-b30e-3a7417f1455f",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3800.000000000013,
+      "Y": 199.99999999999903,
+      "Z": 6000.000000000023
+    },
+    "EndPoint": {
+      "X": 3699.999999999498,
+      "Y": 299.99999999996953,
+      "Z": 9000.000000002554
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000051523,
+      "DeltaY": 99.9999999999705,
+      "DeltaZ": 3000.000000002531,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18837,
+    "Guid": "2c28b475-ee32-491c-88cb-f8000c0b7d83",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 199.99999999999994,
+      "Y": 199.99999999999994,
+      "Z": 6000.000000000023
+    },
+    "EndPoint": {
+      "X": 299.99999999997794,
+      "Y": 299.99999999997794,
+      "Z": 9000.000000002536
+    },
+    "Geometry": {
+      "DeltaX": 99.999999999978,
+      "DeltaY": 99.999999999978,
+      "DeltaZ": 3000.000000002513,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18810,
+    "Guid": "b391d257-9add-4377-a2c8-b18dde86d3bd",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 99.99999999999885,
+      "Y": 99.99999999999505,
+      "Z": 3000.000000000009
+    },
+    "EndPoint": {
+      "X": 199.9999999998858,
+      "Y": 3799.9999999988154,
+      "Z": 5999.999999999822
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988695,
+      "DeltaY": 3699.9999999988204,
+      "DeltaZ": 2999.9999999998126,
+      "Length": 4764.5
+    }
+  },
+  {
+    "Id": 18783,
+    "Guid": "939fb19e-57de-4423-8f61-ef69aef04a45",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 99.9999999999949,
+      "Y": 3899.9999999999986,
+      "Z": 3000.0000000000095
+    },
+    "EndPoint": {
+      "X": 3799.9999999987817,
+      "Y": 3800.000000001232,
+      "Z": 5999.999999999829
+    },
+    "Geometry": {
+      "DeltaX": 3699.9999999987867,
+      "DeltaY": -99.99999999876673,
+      "DeltaZ": 2999.9999999998195,
+      "Length": 4764.5
+    }
+  },
+  {
+    "Id": 18756,
+    "Guid": "cf9c70e1-9be7-446c-9217-51662c268f10",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3899.9999999999977,
+      "Y": 3900.0000000000045,
+      "Z": 3000.0000000000077
+    },
+    "EndPoint": {
+      "X": 3800.0000000013897,
+      "Y": 200.00000000070986,
+      "Z": 6000.000000000541
+    },
+    "Geometry": {
+      "DeltaX": -99.99999999860802,
+      "DeltaY": -3699.9999999992947,
+      "DeltaZ": 3000.0000000005334,
+      "Length": 4764.5
+    }
+  },
+  {
+    "Id": 18729,
+    "Guid": "d86e5d0c-2a43-4232-8b71-af6c0f289e06",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3900.000000000004,
+      "Y": 100.00000000000021,
+      "Z": 3000.0000000000073
+    },
+    "EndPoint": {
+      "X": 200.0000000006753,
+      "Y": 199.99999999972846,
+      "Z": 6000.000000000535
+    },
+    "Geometry": {
+      "DeltaX": -3699.999999999329,
+      "DeltaY": 99.99999999972825,
+      "DeltaZ": 3000.0000000005275,
+      "Length": 4764.5
+    }
+  },
+  {
+    "Id": 18704,
+    "Guid": "ab657231-35fb-4d29-9888-a45c210aae1b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 200.0,
+      "Y": 3800.0,
+      "Z": 6000.0
+    },
+    "EndPoint": {
+      "X": 200.0,
+      "Y": 200.0,
+      "Z": 6000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -3600.0,
+      "DeltaZ": 0.0,
+      "Length": 3600.0
+    }
+  },
+  {
+    "Id": 18679,
+    "Guid": "0fca987d-ef51-4eaa-8d92-05962d19ac97",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3800.0,
+      "Y": 3800.0,
+      "Z": 6000.0
+    },
+    "EndPoint": {
+      "X": 200.0,
+      "Y": 3800.0,
+      "Z": 6000.0
+    },
+    "Geometry": {
+      "DeltaX": -3600.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3600.0
+    }
+  },
+  {
+    "Id": 18654,
+    "Guid": "19596c3e-8c9a-4a9a-b86e-c20de480ee48",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3800.0,
+      "Y": 200.0,
+      "Z": 6000.0
+    },
+    "EndPoint": {
+      "X": 3800.0,
+      "Y": 3800.0,
+      "Z": 6000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 3600.0,
+      "DeltaZ": 0.0,
+      "Length": 3600.0
+    }
+  },
+  {
+    "Id": 18629,
+    "Guid": "cff50c59-1771-4cab-9532-46763597cb4b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 200.0,
+      "Y": 200.0,
+      "Z": 6000.0
+    },
+    "EndPoint": {
+      "X": 3800.0,
+      "Y": 200.0,
+      "Z": 6000.0
+    },
+    "Geometry": {
+      "DeltaX": 3600.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3600.0
+    }
+  },
+  {
+    "Id": 18604,
+    "Guid": "e69bcf80-3ecf-4978-80a7-8dbe42ca80f1",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 100.00000000000003,
+      "Y": 3900.0000000000127,
+      "Z": 2999.999999999998
+    },
+    "EndPoint": {
+      "X": 199.99999999988154,
+      "Y": 3799.999999999545,
+      "Z": 5999.999999999798
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988151,
+      "DeltaY": -100.00000000046794,
+      "DeltaZ": 2999.9999999998,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 18579,
+    "Guid": "e32f4994-31fd-4f2b-a3a8-14bec63bd876",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3900.0000000000136,
+      "Y": 3900.0000000000136,
+      "Z": 2999.999999999998
+    },
+    "EndPoint": {
+      "X": 3799.999999999552,
+      "Y": 3799.999999999552,
+      "Z": 5999.999999999815
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000046157,
+      "DeltaY": -100.00000000046157,
+      "DeltaZ": 2999.999999999817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19919,
+    "Guid": "cbce2b82-4490-4535-8364-089f58c5808c",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3350.0,
+      "Y": 3350.0,
+      "Z": 18000.0
+    },
+    "EndPoint": {
+      "X": 650.0,
+      "Y": 3350.0,
+      "Z": 18000.0
+    },
+    "Geometry": {
+      "DeltaX": -2700.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2700.0
+    }
+  },
+  {
+    "Id": 19894,
+    "Guid": "47b0fd28-9a15-443c-a328-76075dbc9cd9",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3350.0,
+      "Y": 650.0,
+      "Z": 18000.0
+    },
+    "EndPoint": {
+      "X": 3350.0,
+      "Y": 3350.0,
+      "Z": 18000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 2700.0,
+      "DeltaZ": 0.0,
+      "Length": 2700.0
+    }
+  },
+  {
+    "Id": 19869,
+    "Guid": "1128d38f-432d-463f-b353-af405bc0c35a",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 650.0,
+      "Y": 650.0,
+      "Z": 18000.0
+    },
+    "EndPoint": {
+      "X": 3350.0,
+      "Y": 650.0,
+      "Z": 18000.0
+    },
+    "Geometry": {
+      "DeltaX": 2700.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2700.0
+    }
+  },
+  {
+    "Id": 19842,
+    "Guid": "d4a73b65-a5ae-4a15-9134-48258d3f4c0e",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 499.9999999999982,
+      "Y": 3500.0000000000127,
+      "Z": 15000.00000000004
+    },
+    "EndPoint": {
+      "X": 649.9999999980962,
+      "Y": 3350.0000000015248,
+      "Z": 18000.000000005504
+    },
+    "Geometry": {
+      "DeltaX": 149.99999999809802,
+      "DeltaY": -149.99999999848797,
+      "DeltaZ": 3000.0000000054642,
+      "Length": 3007.5
+    }
+  },
+  {
+    "Id": 19815,
+    "Guid": "9df3b8b1-57ce-4611-9636-5be115a5e7eb",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3500.0000000000127,
+      "Y": 3500.0000000000127,
+      "Z": 15000.000000000045
+    },
+    "EndPoint": {
+      "X": 3350.0000000015234,
+      "Y": 3350.0000000015234,
+      "Z": 18000.00000000553
+    },
+    "Geometry": {
+      "DeltaX": -149.99999999848933,
+      "DeltaY": -149.99999999848933,
+      "DeltaZ": 3000.0000000054843,
+      "Length": 3007.5
+    }
+  },
+  {
+    "Id": 19788,
+    "Guid": "a179d1f6-2cf3-4531-9c86-2296a97c70ee",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3500.0000000000127,
+      "Y": 499.9999999999982,
+      "Z": 15000.00000000004
+    },
+    "EndPoint": {
+      "X": 3350.0000000015248,
+      "Y": 649.9999999980962,
+      "Z": 18000.000000005504
+    },
+    "Geometry": {
+      "DeltaX": -149.99999999848797,
+      "DeltaY": 149.99999999809802,
+      "DeltaZ": 3000.0000000054642,
+      "Length": 3007.5
+    }
+  },
+  {
+    "Id": 19761,
+    "Guid": "670b1fe8-b4df-4223-9639-d9abe158c00a",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 499.99999999999847,
+      "Y": 499.99999999999847,
+      "Z": 15000.000000000035
+    },
+    "EndPoint": {
+      "X": 649.9999999980955,
+      "Y": 649.9999999980955,
+      "Z": 18000.000000005486
+    },
+    "Geometry": {
+      "DeltaX": 149.99999999809705,
+      "DeltaY": 149.99999999809705,
+      "DeltaZ": 3000.0000000054515,
+      "Length": 3007.5
+    }
+  },
+  {
+    "Id": 19734,
+    "Guid": "9ae74309-f103-4dcd-a3d7-506e1c8f23bb",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 399.99999999998585,
+      "Y": 3600.0000000000105,
+      "Z": 11999.999999999976
+    },
+    "EndPoint": {
+      "X": 499.9999999972913,
+      "Y": 499.9999999986994,
+      "Z": 14999.999999995907
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999730545,
+      "DeltaY": -3100.000000001311,
+      "DeltaZ": 2999.999999995931,
+      "Length": 4315.1
+    }
+  },
+  {
+    "Id": 19707,
+    "Guid": "1c97da45-1482-4334-a750-96ef657b543f",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3600.0000000000105,
+      "Y": 3600.000000000009,
+      "Z": 11999.999999999976
+    },
+    "EndPoint": {
+      "X": 499.9999999986985,
+      "Y": 3500.0000000026926,
+      "Z": 14999.999999995905
+    },
+    "Geometry": {
+      "DeltaX": -3100.000000001312,
+      "DeltaY": -99.99999999731654,
+      "DeltaZ": 2999.999999995929,
+      "Length": 4315.1
+    }
+  },
+  {
+    "Id": 19680,
+    "Guid": "d938874c-f480-4c7f-a8d0-b77a14a97846",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3600.0000000000127,
+      "Y": 399.9999999999974,
+      "Z": 11999.999999999978
+    },
+    "EndPoint": {
+      "X": 3500.0000000023715,
+      "Y": 3499.9999999999422,
+      "Z": 14999.999999996293
+    },
+    "Geometry": {
+      "DeltaX": -99.99999999764123,
+      "DeltaY": 3099.999999999945,
+      "DeltaZ": 2999.9999999963147,
+      "Length": 4315.1
+    }
+  },
+  {
+    "Id": 19653,
+    "Guid": "d388e6d5-dbf4-4d39-b255-47cf14446b4b",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 399.99999999999864,
+      "Y": 399.99999999998226,
+      "Z": 11999.999999999976
+    },
+    "EndPoint": {
+      "X": 3499.9999999999454,
+      "Y": 499.99999999761224,
+      "Z": 14999.999999996293
+    },
+    "Geometry": {
+      "DeltaX": 3099.999999999947,
+      "DeltaY": 99.99999999762997,
+      "DeltaZ": 2999.9999999963165,
+      "Length": 4315.1
+    }
+  },
+  {
+    "Id": 20177,
+    "Guid": "aedbafaa-0a4c-464b-b1db-120bcd07e54b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 750.0,
+      "Y": 750.0,
+      "Z": 21000.0
+    },
+    "EndPoint": {
+      "X": 3250.0,
+      "Y": 750.0,
+      "Z": 21000.0
+    },
+    "Geometry": {
+      "DeltaX": 2500.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2500.0
+    }
+  },
+  {
+    "Id": 20152,
+    "Guid": "214e528c-5f35-45cf-adc1-e6cb6237f026",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 649.9999999999999,
+      "Y": 3350.0000000000114,
+      "Z": 17999.999999999927
+    },
+    "EndPoint": {
+      "X": 749.9999999998898,
+      "Y": 3249.9999999994056,
+      "Z": 21000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988995,
+      "DeltaY": -100.00000000060572,
+      "DeltaZ": 3000.0000000079817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20127,
+    "Guid": "50e0d7c5-6abe-4f7b-940a-68a7d79f863a",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3350.000000000012,
+      "Y": 3350.000000000012,
+      "Z": 17999.999999999927
+    },
+    "EndPoint": {
+      "X": 3249.9999999994134,
+      "Y": 3249.9999999994134,
+      "Z": 21000.000000007927
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059845,
+      "DeltaY": -100.00000000059845,
+      "DeltaZ": 3000.000000008,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20102,
+    "Guid": "8879333a-df45-47f1-b931-4bb9c090f155",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3350.0000000000114,
+      "Y": 649.9999999999999,
+      "Z": 17999.999999999927
+    },
+    "EndPoint": {
+      "X": 3249.9999999994056,
+      "Y": 749.9999999998898,
+      "Z": 21000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000060572,
+      "DeltaY": 99.99999999988995,
+      "DeltaZ": 3000.0000000079817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20077,
+    "Guid": "f5090d7e-1a3e-418e-8090-2f9a91445269",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 650.0,
+      "Y": 650.0,
+      "Z": 17999.999999999927
+    },
+    "EndPoint": {
+      "X": 749.9999999998978,
+      "Y": 749.9999999998978,
+      "Z": 21000.00000000789
+    },
+    "Geometry": {
+      "DeltaX": 99.9999999998978,
+      "DeltaY": 99.9999999998978,
+      "DeltaZ": 3000.0000000079635,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20050,
+    "Guid": "f140e5ab-ee58-4fe5-a2f7-677c997a7e4e",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 500.00000000000813,
+      "Y": 500.000000000001,
+      "Z": 14999.999999999995
+    },
+    "EndPoint": {
+      "X": 650.0000000014549,
+      "Y": 3349.9999999990355,
+      "Z": 18000.000000000757
+    },
+    "Geometry": {
+      "DeltaX": 150.00000000144672,
+      "DeltaY": 2849.9999999990346,
+      "DeltaZ": 3000.000000000762,
+      "Length": 4140.7
+    }
+  },
+  {
+    "Id": 20023,
+    "Guid": "7ab200bf-2999-4222-a2db-6e0cf0936ae5",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 500.0000000000023,
+      "Y": 3499.9999999999864,
+      "Z": 14999.999999999996
+    },
+    "EndPoint": {
+      "X": 3349.9999999989946,
+      "Y": 3349.9999999997103,
+      "Z": 18000.00000000074
+    },
+    "Geometry": {
+      "DeltaX": 2849.9999999989923,
+      "DeltaY": -150.00000000027603,
+      "DeltaZ": 3000.000000000742,
+      "Length": 4140.7
+    }
+  },
+  {
+    "Id": 19996,
+    "Guid": "8a59a603-3c53-4c48-ba38-3f6aaac3384c",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3499.999999999981,
+      "Y": 3499.999999999984,
+      "Z": 14999.999999999993
+    },
+    "EndPoint": {
+      "X": 3350.0000000008986,
+      "Y": 650.0000000027944,
+      "Z": 18000.000000001164
+    },
+    "Geometry": {
+      "DeltaX": -149.99999999908232,
+      "DeltaY": -2849.9999999971897,
+      "DeltaZ": 3000.0000000011714,
+      "Length": 4140.7
+    }
+  },
+  {
+    "Id": 19969,
+    "Guid": "e1bedc14-c5db-47e8-b095-519c238c9a3f",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3499.9999999999845,
+      "Y": 500.0000000000134,
+      "Z": 14999.999999999993
+    },
+    "EndPoint": {
+      "X": 650.0000000027499,
+      "Y": 650.0000000002669,
+      "Z": 18000.000000001182
+    },
+    "Geometry": {
+      "DeltaX": -2849.9999999972347,
+      "DeltaY": 150.00000000025352,
+      "DeltaZ": 3000.0000000011896,
+      "Length": 4140.7
+    }
+  },
+  {
+    "Id": 19944,
+    "Guid": "1b882d85-0e6f-40af-92d1-6192cc1679c3",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 650.0,
+      "Y": 3350.0,
+      "Z": 18000.0
+    },
+    "EndPoint": {
+      "X": 650.0,
+      "Y": 650.0,
+      "Z": 18000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -2700.0,
+      "DeltaZ": 0.0,
+      "Length": 2700.0
+    }
+  },
+  {
+    "Id": 19628,
+    "Guid": "8a78852a-2638-4882-a0f6-a32cf7d752ef",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 500.0,
+      "Y": 3500.0,
+      "Z": 15000.0
+    },
+    "EndPoint": {
+      "X": 500.0,
+      "Y": 500.0,
+      "Z": 15000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -3000.0,
+      "DeltaZ": 0.0,
+      "Length": 3000.0
+    }
+  },
+  {
+    "Id": 19603,
+    "Guid": "63e1916b-263c-44c5-922e-1250828ffbc9",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3500.0,
+      "Y": 3500.0,
+      "Z": 15000.0
+    },
+    "EndPoint": {
+      "X": 500.0,
+      "Y": 3500.0,
+      "Z": 15000.0
+    },
+    "Geometry": {
+      "DeltaX": -3000.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3000.0
+    }
+  },
+  {
+    "Id": 19578,
+    "Guid": "a6471a20-fe96-4017-a4ab-eea805262d2b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3500.0,
+      "Y": 500.0,
+      "Z": 15000.0
+    },
+    "EndPoint": {
+      "X": 3500.0,
+      "Y": 3500.0,
+      "Z": 15000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 3000.0,
+      "DeltaZ": 0.0,
+      "Length": 3000.0
+    }
+  },
+  {
+    "Id": 19553,
+    "Guid": "25173c10-da1b-45f5-ae3e-51fa9f8cc6fa",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 500.0,
+      "Y": 500.0,
+      "Z": 15000.0
+    },
+    "EndPoint": {
+      "X": 3500.0,
+      "Y": 500.0,
+      "Z": 15000.0
+    },
+    "Geometry": {
+      "DeltaX": 3000.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3000.0
+    }
+  },
+  {
+    "Id": 19528,
+    "Guid": "e85915d5-5bc8-45a1-86cd-65de29554cc6",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 399.99999999999676,
+      "Y": 3600.000000000014,
+      "Z": 12000.000000000022
+    },
+    "EndPoint": {
+      "X": 499.9999999998764,
+      "Y": 3499.9999999995907,
+      "Z": 14999.999999997097
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999987966,
+      "DeltaY": -100.00000000042337,
+      "DeltaZ": 2999.999999997075,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19503,
+    "Guid": "7bd1d01d-f2ac-4b0f-9e1e-4e7e5f137b07",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3600.0000000000146,
+      "Y": 3600.0000000000146,
+      "Z": 12000.000000000024
+    },
+    "EndPoint": {
+      "X": 3499.999999999598,
+      "Y": 3499.999999999598,
+      "Z": 14999.999999997111
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000041655,
+      "DeltaY": -100.00000000041655,
+      "DeltaZ": 2999.999999997088,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19478,
+    "Guid": "7783a736-42ca-49c2-b103-1c0e08538a3f",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3600.0000000000146,
+      "Y": 399.999999999997,
+      "Z": 12000.000000000022
+    },
+    "EndPoint": {
+      "X": 3499.9999999995907,
+      "Y": 499.99999999987665,
+      "Z": 14999.999999997097
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000042382,
+      "DeltaY": 99.99999999987966,
+      "DeltaZ": 2999.999999997075,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19453,
+    "Guid": "16f78a46-aa07-4b85-8270-e764ed42f88a",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 399.99999999999704,
+      "Y": 399.99999999999704,
+      "Z": 12000.000000000022
+    },
+    "EndPoint": {
+      "X": 499.99999999988415,
+      "Y": 499.99999999988415,
+      "Z": 14999.999999997079
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988711,
+      "DeltaY": 99.99999999988711,
+      "DeltaZ": 2999.999999997057,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19426,
+    "Guid": "a8e4fd8e-6bfe-47ae-8482-3220da5afe2d",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 300.00000000001234,
+      "Y": 299.9999999999806,
+      "Z": 9000.000000000018
+    },
+    "EndPoint": {
+      "X": 400.0000000019113,
+      "Y": 3599.9999999952392,
+      "Z": 11999.999999998865
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000189897,
+      "DeltaY": 3299.999999995259,
+      "DeltaZ": 2999.9999999988468,
+      "Length": 4460.9
+    }
+  },
+  {
+    "Id": 19399,
+    "Guid": "d2175ecd-7998-4a9f-84f7-218b94425905",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 299.99999999998045,
+      "Y": 3699.9999999999895,
+      "Z": 9000.000000000018
+    },
+    "EndPoint": {
+      "X": 3599.99999999525,
+      "Y": 3599.99999999831,
+      "Z": 11999.99999999884
+    },
+    "Geometry": {
+      "DeltaX": 3299.9999999952697,
+      "DeltaY": -100.00000000167938,
+      "DeltaZ": 2999.9999999988213,
+      "Length": 4460.9
+    }
+  },
+  {
+    "Id": 19372,
+    "Guid": "107572d1-e39f-4f04-a806-03d5b72d4168",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3699.999999999992,
+      "Y": 3700.0000000000223,
+      "Z": 9000.000000000015
+    },
+    "EndPoint": {
+      "X": 3599.9999999973543,
+      "Y": 400.0000000033501,
+      "Z": 11999.999999998936
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000263753,
+      "DeltaY": -3299.999999996672,
+      "DeltaZ": 2999.9999999989213,
+      "Length": 4460.9
+    }
+  },
+  {
+    "Id": 19345,
+    "Guid": "b6f09653-c54b-4bf3-83b6-e64ec16d7be2",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3700.0000000000227,
+      "Y": 300.00000000000995,
+      "Z": 9000.000000000015
+    },
+    "EndPoint": {
+      "X": 400.0000000033656,
+      "Y": 400.00000000286656,
+      "Z": 11999.999999998963
+    },
+    "Geometry": {
+      "DeltaX": -3299.999999996657,
+      "DeltaY": 100.00000000285661,
+      "DeltaZ": 2999.9999999989486,
+      "Length": 4460.9
+    }
+  },
+  {
+    "Id": 19320,
+    "Guid": "51d126fe-0c88-4637-a208-2c6f559a04ec",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 400.0,
+      "Y": 3600.0,
+      "Z": 12000.0
+    },
+    "EndPoint": {
+      "X": 400.0,
+      "Y": 400.0,
+      "Z": 12000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -3200.0,
+      "DeltaZ": 0.0,
+      "Length": 3200.0
+    }
+  },
+  {
+    "Id": 19295,
+    "Guid": "ad73e9b0-4c0c-447f-b361-df8162edbaa0",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3600.0,
+      "Y": 3600.0,
+      "Z": 12000.0
+    },
+    "EndPoint": {
+      "X": 400.0,
+      "Y": 3600.0,
+      "Z": 12000.0
+    },
+    "Geometry": {
+      "DeltaX": -3200.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3200.0
+    }
+  },
+  {
+    "Id": 19270,
+    "Guid": "438df25b-0680-44e2-98b7-69943e7a6c63",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3600.0,
+      "Y": 400.0,
+      "Z": 12000.0
+    },
+    "EndPoint": {
+      "X": 3600.0,
+      "Y": 3600.0,
+      "Z": 12000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 3200.0,
+      "DeltaZ": 0.0,
+      "Length": 3200.0
+    }
+  },
+  {
+    "Id": 19245,
+    "Guid": "0ea25f7c-14f1-4474-af5d-e0a1b9ac3019",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 400.0,
+      "Y": 400.0,
+      "Z": 12000.0
+    },
+    "EndPoint": {
+      "X": 3600.0,
+      "Y": 400.0,
+      "Z": 12000.0
+    },
+    "Geometry": {
+      "DeltaX": 3200.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 3200.0
+    }
+  },
+  {
+    "Id": 19220,
+    "Guid": "6814156e-6360-481c-97d5-6a8e89cdeff3",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 299.999999999997,
+      "Y": 3700.0000000000146,
+      "Z": 9000.000000000022
+    },
+    "EndPoint": {
+      "X": 399.9999999998763,
+      "Y": 3599.9999999995907,
+      "Z": 11999.999999997093
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999987932,
+      "DeltaY": -100.00000000042382,
+      "DeltaZ": 2999.9999999970714,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19195,
+    "Guid": "68fad915-56c9-49e2-9022-c678b37d3479",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3700.0000000000146,
+      "Y": 3700.0000000000146,
+      "Z": 9000.000000000024
+    },
+    "EndPoint": {
+      "X": 3599.999999999598,
+      "Y": 3599.999999999598,
+      "Z": 11999.999999997111
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000041655,
+      "DeltaY": -100.00000000041655,
+      "DeltaZ": 2999.999999997088,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19170,
+    "Guid": "6e13df2f-24f7-4b32-9827-95c4fc272510",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3700.0000000000146,
+      "Y": 299.999999999997,
+      "Z": 9000.000000000022
+    },
+    "EndPoint": {
+      "X": 3599.9999999995907,
+      "Y": 399.9999999998763,
+      "Z": 11999.999999997093
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000042382,
+      "DeltaY": 99.99999999987932,
+      "DeltaZ": 2999.9999999970714,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19145,
+    "Guid": "6f492133-27ce-4eb3-9f44-18bed0bfcd9d",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 299.9999999999971,
+      "Y": 299.9999999999971,
+      "Z": 9000.000000000022
+    },
+    "EndPoint": {
+      "X": 399.99999999988427,
+      "Y": 399.99999999988427,
+      "Z": 11999.999999997079
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988717,
+      "DeltaY": 99.99999999988717,
+      "DeltaZ": 2999.999999997057,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 19118,
+    "Guid": "8246918a-29d6-465c-98e3-6f81d29640a7",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 200.0000000000002,
+      "Y": 3799.9999999999964,
+      "Z": 5999.999999999991
+    },
+    "EndPoint": {
+      "X": 300.0000000011868,
+      "Y": 299.9999999984143,
+      "Z": 8999.999999999285
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000118658,
+      "DeltaY": -3500.000000001582,
+      "DeltaZ": 2999.9999999992942,
+      "Length": 4610.9
+    }
+  },
+  {
+    "Id": 21207,
+    "Guid": "52ecd0cc-6581-4e46-99f0-d4b8e8f86b88",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 950.0000000000001,
+      "Y": 950.0000000000001,
+      "Z": 26999.999999999927
+    },
+    "EndPoint": {
+      "X": 1049.9999999998977,
+      "Y": 1049.9999999998977,
+      "Z": 30000.000000007887
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999989757,
+      "DeltaY": 99.99999999989757,
+      "DeltaZ": 3000.00000000796,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21180,
+    "Guid": "9d027740-bd90-4651-8431-57eee55787bd",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 850.0000000000146,
+      "Y": 3149.999999999999,
+      "Z": 23999.999999999945
+    },
+    "EndPoint": {
+      "X": 950.0000000014226,
+      "Y": 950.0000000030027,
+      "Z": 26999.999999982443
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000140801,
+      "DeltaY": -2199.9999999969964,
+      "DeltaZ": 2999.9999999824977,
+      "Length": 3721.6
+    }
+  },
+  {
+    "Id": 21153,
+    "Guid": "8bbdd199-3089-427d-bc3a-f22b153a6407",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3149.9999999999995,
+      "Y": 3149.9999999999854,
+      "Z": 23999.999999999945
+    },
+    "EndPoint": {
+      "X": 950.0000000029863,
+      "Y": 3049.999999998611,
+      "Z": 26999.999999982443
+    },
+    "Geometry": {
+      "DeltaX": -2199.999999997013,
+      "DeltaY": -100.00000000137425,
+      "DeltaZ": 2999.9999999824977,
+      "Length": 3721.6
+    }
+  },
+  {
+    "Id": 21126,
+    "Guid": "181e95e0-52f4-4373-ad2e-ce3c14fcd1a2",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3149.9999999999886,
+      "Y": 850.0000000000092,
+      "Z": 23999.999999999938
+    },
+    "EndPoint": {
+      "X": 3049.9999999986235,
+      "Y": 3049.999999998496,
+      "Z": 26999.99999998383
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000136515,
+      "DeltaY": 2199.999999998487,
+      "DeltaZ": 2999.999999983891,
+      "Length": 3721.6
+    }
+  },
+  {
+    "Id": 21099,
+    "Guid": "77cd68e6-29d3-455c-8341-5875f7c73336",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 850.0000000000093,
+      "Y": 850.0000000000118,
+      "Z": 23999.999999999938
+    },
+    "EndPoint": {
+      "X": 3049.9999999984857,
+      "Y": 950.0000000014103,
+      "Z": 26999.999999983836
+    },
+    "Geometry": {
+      "DeltaX": 2199.9999999984766,
+      "DeltaY": 100.00000000139846,
+      "DeltaZ": 2999.9999999838983,
+      "Length": 3721.6
+    }
+  },
+  {
+    "Id": 21074,
+    "Guid": "bfc40370-5a8c-47d6-a54d-d62a86a64aca",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 950.0,
+      "Y": 3050.0,
+      "Z": 27000.0
+    },
+    "EndPoint": {
+      "X": 950.0,
+      "Y": 950.0,
+      "Z": 27000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -2100.0,
+      "DeltaZ": 0.0,
+      "Length": 2100.0
+    }
+  },
+  {
+    "Id": 21049,
+    "Guid": "6dc9e0b9-3e72-4fd7-ac88-d7a7d0b8263d",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3050.0,
+      "Y": 3050.0,
+      "Z": 27000.0
+    },
+    "EndPoint": {
+      "X": 950.0,
+      "Y": 3050.0,
+      "Z": 27000.0
+    },
+    "Geometry": {
+      "DeltaX": -2100.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2100.0
+    }
+  },
+  {
+    "Id": 21024,
+    "Guid": "3364edd2-bfac-4893-b761-48cf5328aafb",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3050.0,
+      "Y": 950.0,
+      "Z": 27000.0
+    },
+    "EndPoint": {
+      "X": 3050.0,
+      "Y": 3050.0,
+      "Z": 27000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 2100.0,
+      "DeltaZ": 0.0,
+      "Length": 2100.0
+    }
+  },
+  {
+    "Id": 20999,
+    "Guid": "5ef8be26-667e-4625-ba61-9876c18e073d",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 950.0,
+      "Y": 950.0,
+      "Z": 27000.0
+    },
+    "EndPoint": {
+      "X": 3050.0,
+      "Y": 950.0,
+      "Z": 27000.0
+    },
+    "Geometry": {
+      "DeltaX": 2100.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2100.0
+    }
+  },
+  {
+    "Id": 20974,
+    "Guid": "93e27d01-1c9c-48d3-b0a3-ce2fea6fccff",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 850.0000000000002,
+      "Y": 3150.0000000000114,
+      "Z": 23999.999999999927
+    },
+    "EndPoint": {
+      "X": 949.9999999998902,
+      "Y": 3049.999999999406,
+      "Z": 27000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988995,
+      "DeltaY": -100.00000000060527,
+      "DeltaZ": 3000.0000000079817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20949,
+    "Guid": "3e7ddef7-8b61-4914-ae07-5b995ce20785",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3150.000000000012,
+      "Y": 3150.000000000012,
+      "Z": 23999.999999999927
+    },
+    "EndPoint": {
+      "X": 3049.9999999994134,
+      "Y": 3049.9999999994134,
+      "Z": 27000.000000007927
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059845,
+      "DeltaY": -100.00000000059845,
+      "DeltaZ": 3000.000000008,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20460,
+    "Guid": "00441983-88f6-491a-b8e1-5c3e966d05bc",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 750.0,
+      "Y": 3250.0000000000114,
+      "Z": 20999.999999999927
+    },
+    "EndPoint": {
+      "X": 849.9999999998907,
+      "Y": 3149.999999999407,
+      "Z": 24000.000000007905
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999989075,
+      "DeltaY": -100.00000000060436,
+      "DeltaZ": 3000.000000007978,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20435,
+    "Guid": "d7562df5-6c71-487c-b15e-11e081720ee1",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3250.000000000012,
+      "Y": 3250.000000000012,
+      "Z": 20999.999999999927
+    },
+    "EndPoint": {
+      "X": 3149.999999999414,
+      "Y": 3149.999999999414,
+      "Z": 24000.000000007934
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059799,
+      "DeltaY": -100.00000000059799,
+      "DeltaZ": 3000.000000008007,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20410,
+    "Guid": "10e5240e-6748-463d-b81a-d1687efb4af8",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3250.0000000000114,
+      "Y": 750.0,
+      "Z": 20999.999999999927
+    },
+    "EndPoint": {
+      "X": 3149.999999999407,
+      "Y": 849.9999999998907,
+      "Z": 24000.000000007905
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000060436,
+      "DeltaY": 99.99999999989075,
+      "DeltaZ": 3000.000000007978,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20385,
+    "Guid": "cf63b0af-4df1-434e-95f4-72c4f5a65f26",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 750.0000000000001,
+      "Y": 750.0000000000001,
+      "Z": 20999.999999999927
+    },
+    "EndPoint": {
+      "X": 849.9999999998977,
+      "Y": 849.9999999998977,
+      "Z": 24000.000000007887
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999989757,
+      "DeltaY": 99.99999999989757,
+      "DeltaZ": 3000.00000000796,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20358,
+    "Guid": "cc84a5d5-f1ee-4bf5-9e42-39913ac7cc3c",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 650.000000000025,
+      "Y": 3349.9999999999905,
+      "Z": 18000.000000000044
+    },
+    "EndPoint": {
+      "X": 750.0000000041459,
+      "Y": 749.999999998,
+      "Z": 21000.00000000741
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000412092,
+      "DeltaY": -2600.0000000019904,
+      "DeltaZ": 3000.000000007367,
+      "Length": 3971.1
+    }
+  },
+  {
+    "Id": 20331,
+    "Guid": "39573d4d-14ed-41a5-a962-b6dfd20e14f7",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3349.9999999999914,
+      "Y": 3349.9999999999754,
+      "Z": 18000.000000000044
+    },
+    "EndPoint": {
+      "X": 749.9999999979918,
+      "Y": 3249.9999999954257,
+      "Z": 21000.00000000742
+    },
+    "Geometry": {
+      "DeltaX": -2600.0000000019995,
+      "DeltaY": -100.00000000454975,
+      "DeltaZ": 3000.000000007378,
+      "Length": 3971.1
+    }
+  },
+  {
+    "Id": 20304,
+    "Guid": "72330cf4-a10a-4ff8-b37e-e09c1667a95d",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3349.999999999975,
+      "Y": 650.0000000000119,
+      "Z": 18000.000000000047
+    },
+    "EndPoint": {
+      "X": 3249.9999999954407,
+      "Y": 3250.0000000007217,
+      "Z": 21000.000000006978
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000453429,
+      "DeltaY": 2600.00000000071,
+      "DeltaZ": 3000.0000000069303,
+      "Length": 3971.1
+    }
+  },
+  {
+    "Id": 20277,
+    "Guid": "94a2e2ef-beca-449f-bede-3834453aaaf4",
+    "Type": "SECONDARY",
+    "Direction": "DIAGONAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 650.0000000000119,
+      "Y": 650.0000000000251,
+      "Z": 18000.000000000047
+    },
+    "EndPoint": {
+      "X": 3250.0000000007126,
+      "Y": 750.0000000041312,
+      "Z": 21000.000000006967
+    },
+    "Geometry": {
+      "DeltaX": 2600.0000000007008,
+      "DeltaY": 100.00000000410603,
+      "DeltaZ": 3000.0000000069194,
+      "Length": 3971.1
+    }
+  },
+  {
+    "Id": 20252,
+    "Guid": "00490711-d78c-4e2e-96d8-d723be2e299c",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 750.0,
+      "Y": 3250.0,
+      "Z": 21000.0
+    },
+    "EndPoint": {
+      "X": 750.0,
+      "Y": 750.0,
+      "Z": 21000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -2500.0,
+      "DeltaZ": 0.0,
+      "Length": 2500.0
+    }
+  },
+  {
+    "Id": 20227,
+    "Guid": "5add8541-ef20-4b59-b8f0-52cde51c2a07",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3250.0,
+      "Y": 3250.0,
+      "Z": 21000.0
+    },
+    "EndPoint": {
+      "X": 750.0,
+      "Y": 3250.0,
+      "Z": 21000.0
+    },
+    "Geometry": {
+      "DeltaX": -2500.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2500.0
+    }
+  },
+  {
+    "Id": 20202,
+    "Guid": "6c5f0f47-a8eb-46d9-a6da-090cc23f033b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3250.0,
+      "Y": 750.0,
+      "Z": 21000.0
+    },
+    "EndPoint": {
+      "X": 3250.0,
+      "Y": 3250.0,
+      "Z": 21000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 2500.0,
+      "DeltaZ": 0.0,
+      "Length": 2500.0
+    }
+  },
+  {
+    "Id": 20924,
+    "Guid": "2512141e-bec8-4432-8a02-39036c0e4da0",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3150.0000000000114,
+      "Y": 850.0000000000002,
+      "Z": 23999.999999999927
+    },
+    "EndPoint": {
+      "X": 3049.999999999406,
+      "Y": 949.9999999998902,
+      "Z": 27000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000060527,
+      "DeltaY": 99.99999999988995,
+      "DeltaZ": 3000.0000000079817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20899,
+    "Guid": "baf299a3-b5a1-4e95-9a07-877696437590",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 850.0000000000001,
+      "Y": 850.0000000000001,
+      "Z": 23999.999999999927
+    },
+    "EndPoint": {
+      "X": 949.9999999998978,
+      "Y": 949.9999999998978,
+      "Z": 27000.00000000789
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999989768,
+      "DeltaY": 99.99999999989768,
+      "DeltaZ": 3000.0000000079635,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 20666,
+    "Guid": "5090c043-7f02-4d21-8990-30de35720f9c",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 749.9999999999776,
+      "Y": 750.0000000000243,
+      "Z": 20999.999999999938
+    },
+    "EndPoint": {
+      "X": 849.9999999960335,
+      "Y": 3149.999999999267,
+      "Z": 23999.999999994252
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999605586,
+      "DeltaY": 2399.9999999992424,
+      "DeltaZ": 2999.999999994314,
+      "Length": 3843.2
+    }
+  },
+  {
+    "Id": 20639,
+    "Guid": "1c33fabf-b70f-451d-a79d-4b727ccf799a",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 750.0000000000241,
+      "Y": 3250.0000000000223,
+      "Z": 20999.999999999938
+    },
+    "EndPoint": {
+      "X": 3149.9999999992915,
+      "Y": 3150.0000000031255,
+      "Z": 23999.99999999426
+    },
+    "Geometry": {
+      "DeltaX": 2399.9999999992674,
+      "DeltaY": -99.9999999968968,
+      "DeltaZ": 2999.999999994321,
+      "Length": 3843.2
+    }
+  },
+  {
+    "Id": 20612,
+    "Guid": "179ac10a-a701-4679-a8b3-ba2753cc23ae",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3250.0000000000223,
+      "Y": 3249.999999999967,
+      "Z": 20999.999999999938
+    },
+    "EndPoint": {
+      "X": 3150.000000002607,
+      "Y": 850.000000001362,
+      "Z": 23999.999999994772
+    },
+    "Geometry": {
+      "DeltaX": -99.99999999741522,
+      "DeltaY": -2399.999999998605,
+      "DeltaZ": 2999.999999994834,
+      "Length": 3843.2
+    }
+  },
+  {
+    "Id": 20585,
+    "Guid": "b360d460-0005-4ef2-bfb0-bb8cc99872ec",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3249.999999999967,
+      "Y": 749.9999999999777,
+      "Z": 20999.999999999938
+    },
+    "EndPoint": {
+      "X": 850.0000000013838,
+      "Y": 849.9999999965522,
+      "Z": 23999.99999999476
+    },
+    "Geometry": {
+      "DeltaX": -2399.999999998583,
+      "DeltaY": 99.9999999965745,
+      "DeltaZ": 2999.999999994823,
+      "Length": 3843.2
+    }
+  },
+  {
+    "Id": 20560,
+    "Guid": "28dcbd1d-1ebf-4028-8db3-f5b79e2bb450",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 850.0,
+      "Y": 3150.0,
+      "Z": 24000.0
+    },
+    "EndPoint": {
+      "X": 850.0,
+      "Y": 850.0,
+      "Z": 24000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -2300.0,
+      "DeltaZ": 0.0,
+      "Length": 2300.0
+    }
+  },
+  {
+    "Id": 20535,
+    "Guid": "79b70d74-28f5-4587-ba36-e34973a00e78",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3150.0,
+      "Y": 3150.0,
+      "Z": 24000.0
+    },
+    "EndPoint": {
+      "X": 850.0,
+      "Y": 3150.0,
+      "Z": 24000.0
+    },
+    "Geometry": {
+      "DeltaX": -2300.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2300.0
+    }
+  },
+  {
+    "Id": 20510,
+    "Guid": "cdbf52ce-de49-41da-aee1-76bab9b4c4f1",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3150.0,
+      "Y": 850.0,
+      "Z": 24000.0
+    },
+    "EndPoint": {
+      "X": 3150.0,
+      "Y": 3150.0,
+      "Z": 24000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 2300.0,
+      "DeltaZ": 0.0,
+      "Length": 2300.0
+    }
+  },
+  {
+    "Id": 20485,
+    "Guid": "fd3430e9-ecf4-409d-9538-dd4e9c525f9c",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 850.0,
+      "Y": 850.0,
+      "Z": 24000.0
+    },
+    "EndPoint": {
+      "X": 3150.0,
+      "Y": 850.0,
+      "Z": 24000.0
+    },
+    "Geometry": {
+      "DeltaX": 2300.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 2300.0
+    }
+  },
+  {
+    "Id": 22281,
+    "Guid": "78617de6-5f64-4199-9341-20971cf9e456",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2650.0,
+      "Y": 2650.0,
+      "Z": 39000.0
+    },
+    "EndPoint": {
+      "X": 1350.0,
+      "Y": 2650.0,
+      "Z": 39000.0
+    },
+    "Geometry": {
+      "DeltaX": -1300.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1300.0
+    }
+  },
+  {
+    "Id": 22256,
+    "Guid": "58ea99e7-de9b-455b-872a-95f0eae55727",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2650.0,
+      "Y": 1350.0,
+      "Z": 39000.0
+    },
+    "EndPoint": {
+      "X": 2650.0,
+      "Y": 2650.0,
+      "Z": 39000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 1300.0,
+      "DeltaZ": 0.0,
+      "Length": 1300.0
+    }
+  },
+  {
+    "Id": 22231,
+    "Guid": "f9fd0e06-fa4d-412b-8255-19e066778e5d",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1350.0,
+      "Y": 1350.0,
+      "Z": 39000.0
+    },
+    "EndPoint": {
+      "X": 2650.0,
+      "Y": 1350.0,
+      "Z": 39000.0
+    },
+    "Geometry": {
+      "DeltaX": 1300.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1300.0
+    }
+  },
+  {
+    "Id": 22206,
+    "Guid": "50d4de4e-a6d0-4759-87df-e4f6a85187c1",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1250.0000000000114,
+      "Y": 2750.000000000011,
+      "Z": 35999.999999999935
+    },
+    "EndPoint": {
+      "X": 1349.9999999998774,
+      "Y": 2649.9999999993975,
+      "Z": 39000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999986608,
+      "DeltaY": -100.00000000061345,
+      "DeltaZ": 3000.0000000079744,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 22181,
+    "Guid": "c0695def-d017-4ff7-83ea-4e4ec11f35ca",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2750.000000000011,
+      "Y": 2750.000000000011,
+      "Z": 35999.999999999935
+    },
+    "EndPoint": {
+      "X": 2649.9999999994134,
+      "Y": 2649.9999999994134,
+      "Z": 39000.00000000793
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059754,
+      "DeltaY": -100.00000000059754,
+      "DeltaZ": 3000.0000000079963,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 22156,
+    "Guid": "32fc5a85-effb-4383-9596-0add8bff59b4",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2750.000000000011,
+      "Y": 1250.0000000000114,
+      "Z": 35999.999999999935
+    },
+    "EndPoint": {
+      "X": 2649.9999999993975,
+      "Y": 1349.9999999998774,
+      "Z": 39000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000061345,
+      "DeltaY": 99.99999999986608,
+      "DeltaZ": 3000.0000000079744,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 22131,
+    "Guid": "1177430e-4f57-41a5-8df7-100725dd5b2e",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1250.0000000000116,
+      "Y": 1250.0000000000116,
+      "Z": 35999.999999999935
+    },
+    "EndPoint": {
+      "X": 1349.9999999998931,
+      "Y": 1349.9999999998931,
+      "Z": 39000.00000000789
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988154,
+      "DeltaY": 99.99999999988154,
+      "DeltaZ": 3000.0000000079526,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 22104,
+    "Guid": "4a3f366f-7eb0-4b6c-89c9-6aecce8a7a3f",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0000000000161,
+      "Y": 1150.0000000000102,
+      "Z": 33000.00000000004
+    },
+    "EndPoint": {
+      "X": 1250.0000000020948,
+      "Y": 2749.999999993216,
+      "Z": 36000.00000001497
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000207865,
+      "DeltaY": 1599.9999999932058,
+      "DeltaZ": 3000.0000000149303,
+      "Length": 3401.5
+    }
+  },
+  {
+    "Id": 22077,
+    "Guid": "90a55a87-f958-4b08-b770-1ef1f0e5149c",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0000000000105,
+      "Y": 2849.999999999984,
+      "Z": 33000.00000000004
+    },
+    "EndPoint": {
+      "X": 2749.9999999932115,
+      "Y": 2749.9999999978827,
+      "Z": 36000.00000001496
+    },
+    "Geometry": {
+      "DeltaX": 1599.999999993201,
+      "DeltaY": -100.00000000210139,
+      "DeltaZ": 3000.000000014923,
+      "Length": 3401.5
+    }
+  },
+  {
+    "Id": 22050,
+    "Guid": "b8d2f607-e2f5-4e42-954b-3909d013fcd3",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2849.999999999991,
+      "Y": 2850.0000000000045,
+      "Z": 33000.00000000004
+    },
+    "EndPoint": {
+      "X": 2749.9999999978586,
+      "Y": 1250.0000000055352,
+      "Z": 36000.00000001511
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000213231,
+      "DeltaY": -1599.9999999944694,
+      "DeltaZ": 3000.000000015076,
+      "Length": 3401.5
+    }
+  },
+  {
+    "Id": 22023,
+    "Guid": "80eb0855-a385-41dd-98a2-fd7919c0672c",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0000000000055,
+      "Y": 1150.0000000000095,
+      "Z": 33000.00000000004
+    },
+    "EndPoint": {
+      "X": 1250.0000000055338,
+      "Y": 1250.0000000021194,
+      "Z": 36000.00000001511
+    },
+    "Geometry": {
+      "DeltaX": -1599.9999999944716,
+      "DeltaY": 100.0000000021098,
+      "DeltaZ": 3000.000000015076,
+      "Length": 3401.5
+    }
+  },
+  {
+    "Id": 21998,
+    "Guid": "0651b6ee-f0fa-42ff-9296-e7abf23ce8db",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1250.0,
+      "Y": 2750.0,
+      "Z": 36000.0
+    },
+    "EndPoint": {
+      "X": 1250.0,
+      "Y": 1250.0,
+      "Z": 36000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -1500.0,
+      "DeltaZ": 0.0,
+      "Length": 1500.0
+    }
+  },
+  {
+    "Id": 21973,
+    "Guid": "32795657-fceb-4f6a-b1b9-865ab0621779",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2750.0,
+      "Y": 2750.0,
+      "Z": 36000.0
+    },
+    "EndPoint": {
+      "X": 1250.0,
+      "Y": 2750.0,
+      "Z": 36000.0
+    },
+    "Geometry": {
+      "DeltaX": -1500.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1500.0
+    }
+  },
+  {
+    "Id": 21948,
+    "Guid": "de80edd0-fa76-4308-885f-c1160ee60d19",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2750.0,
+      "Y": 1250.0,
+      "Z": 36000.0
+    },
+    "EndPoint": {
+      "X": 2750.0,
+      "Y": 2750.0,
+      "Z": 36000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 1500.0,
+      "DeltaZ": 0.0,
+      "Length": 1500.0
+    }
+  },
+  {
+    "Id": 21923,
+    "Guid": "36dc37c3-155e-49d8-b072-8140a0babad8",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1250.0,
+      "Y": 1250.0,
+      "Z": 36000.0
+    },
+    "EndPoint": {
+      "X": 2750.0,
+      "Y": 1250.0,
+      "Z": 36000.0
+    },
+    "Geometry": {
+      "DeltaX": 1500.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1500.0
+    }
+  },
+  {
+    "Id": 21898,
+    "Guid": "4f6c6e12-aacb-46b2-a1b3-c346d730edb9",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0000000000111,
+      "Y": 2850.0000000000114,
+      "Z": 32999.99999999993
+    },
+    "EndPoint": {
+      "X": 1249.9999999998777,
+      "Y": 2749.9999999993975,
+      "Z": 36000.000000007916
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999986653,
+      "DeltaY": -100.00000000061391,
+      "DeltaZ": 3000.000000007989,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21873,
+    "Guid": "65621869-1be0-4309-b424-1796cbcc70c2",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.000000000011,
+      "Y": 2850.000000000011,
+      "Z": 32999.99999999993
+    },
+    "EndPoint": {
+      "X": 2749.999999999413,
+      "Y": 2749.999999999413,
+      "Z": 36000.00000000793
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059799,
+      "DeltaY": -100.00000000059799,
+      "DeltaZ": 3000.0000000080036,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21848,
+    "Guid": "11044a4e-923d-46cd-93e7-b3fc5f8f4f94",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0000000000114,
+      "Y": 1150.0000000000111,
+      "Z": 32999.99999999993
+    },
+    "EndPoint": {
+      "X": 2749.9999999993975,
+      "Y": 1249.9999999998777,
+      "Z": 36000.000000007916
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000061391,
+      "DeltaY": 99.99999999986653,
+      "DeltaZ": 3000.000000007989,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21823,
+    "Guid": "aa014dad-5b3d-442c-b8ba-aca01780af4f",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0000000000114,
+      "Y": 1150.0000000000114,
+      "Z": 32999.99999999993
+    },
+    "EndPoint": {
+      "X": 1249.9999999998934,
+      "Y": 1249.9999999998934,
+      "Z": 36000.000000007894
+    },
+    "Geometry": {
+      "DeltaX": 99.999999999882,
+      "DeltaY": 99.999999999882,
+      "DeltaZ": 3000.000000007967,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21796,
+    "Guid": "cf5c2a47-43fa-4d0a-8dd5-231486717530",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1050.0000000000157,
+      "Y": 2950.0000000000114,
+      "Z": 30000.00000000004
+    },
+    "EndPoint": {
+      "X": 1150.0000000027849,
+      "Y": 1150.0000000013054,
+      "Z": 32999.99999999548
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000276918,
+      "DeltaY": -1799.999999998706,
+      "DeltaZ": 2999.9999999954416,
+      "Length": 3500.0
+    }
+  },
+  {
+    "Id": 21769,
+    "Guid": "e57c8c32-1b90-425d-98ff-f324cc4e6138",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2950.0000000000114,
+      "Y": 2949.999999999984,
+      "Z": 30000.00000000004
+    },
+    "EndPoint": {
+      "X": 1150.000000001293,
+      "Y": 2849.9999999964407,
+      "Z": 32999.999999995496
+    },
+    "Geometry": {
+      "DeltaX": -1799.9999999987183,
+      "DeltaY": -100.00000000354339,
+      "DeltaZ": 2999.999999995456,
+      "Length": 3500.0
+    }
+  },
+  {
+    "Id": 21461,
+    "Guid": "ff640a37-0f61-4c9e-b701-ec84ea10ff2d",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 950.0000000000038,
+      "Y": 3049.999999999986,
+      "Z": 27000.000000000044
+    },
+    "EndPoint": {
+      "X": 2950.000000003373,
+      "Y": 2949.999999997756,
+      "Z": 30000.000000018867
+    },
+    "Geometry": {
+      "DeltaX": 2000.0000000033692,
+      "DeltaY": -100.00000000223008,
+      "DeltaZ": 3000.000000018823,
+      "Length": 3606.9
+    }
+  },
+  {
+    "Id": 21434,
+    "Guid": "af5f280a-819f-4f0e-9457-726d0a7607de",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3049.999999999988,
+      "Y": 3049.9999999999864,
+      "Z": 27000.00000000003
+    },
+    "EndPoint": {
+      "X": 2949.999999997074,
+      "Y": 1049.9999999957663,
+      "Z": 30000.000000019365
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000291402,
+      "DeltaY": -2000.00000000422,
+      "DeltaZ": 3000.000000019336,
+      "Length": 3606.9
+    }
+  },
+  {
+    "Id": 21407,
+    "Guid": "ab83fcfc-1a8f-4908-b1f5-ab759689a12e",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3049.999999999989,
+      "Y": 950.0000000000081,
+      "Z": 27000.000000000033
+    },
+    "EndPoint": {
+      "X": 1049.9999999957772,
+      "Y": 1050.0000000025343,
+      "Z": 30000.000000019354
+    },
+    "Geometry": {
+      "DeltaX": -2000.0000000042119,
+      "DeltaY": 100.00000000252624,
+      "DeltaZ": 3000.0000000193213,
+      "Length": 3606.9
+    }
+  },
+  {
+    "Id": 21382,
+    "Guid": "c9c0c9a3-cc3b-496f-a6e6-d26289f39238",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1050.0,
+      "Y": 2950.0,
+      "Z": 30000.0
+    },
+    "EndPoint": {
+      "X": 1050.0,
+      "Y": 1050.0,
+      "Z": 30000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -1900.0,
+      "DeltaZ": 0.0,
+      "Length": 1900.0
+    }
+  },
+  {
+    "Id": 21357,
+    "Guid": "237b09d7-cb45-475c-8a76-f354ac47820a",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2950.0,
+      "Y": 2950.0,
+      "Z": 30000.0
+    },
+    "EndPoint": {
+      "X": 1050.0,
+      "Y": 2950.0,
+      "Z": 30000.0
+    },
+    "Geometry": {
+      "DeltaX": -1900.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1900.0
+    }
+  },
+  {
+    "Id": 21332,
+    "Guid": "898a3761-42fd-47fe-abd6-e5d41b368232",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2950.0,
+      "Y": 1050.0,
+      "Z": 30000.0
+    },
+    "EndPoint": {
+      "X": 2950.0,
+      "Y": 2950.0,
+      "Z": 30000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 1900.0,
+      "DeltaZ": 0.0,
+      "Length": 1900.0
+    }
+  },
+  {
+    "Id": 21307,
+    "Guid": "aa92049e-8e45-4ee7-9f61-6b2ccaa7c374",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1050.0,
+      "Y": 1050.0,
+      "Z": 30000.0
+    },
+    "EndPoint": {
+      "X": 2950.0,
+      "Y": 1050.0,
+      "Z": 30000.0
+    },
+    "Geometry": {
+      "DeltaX": 1900.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1900.0
+    }
+  },
+  {
+    "Id": 21282,
+    "Guid": "fef8d349-66ff-49fe-a9ad-ab759a462c6a",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 949.9999999999995,
+      "Y": 3050.000000000012,
+      "Z": 26999.999999999927
+    },
+    "EndPoint": {
+      "X": 1049.9999999998909,
+      "Y": 2949.999999999406,
+      "Z": 30000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999989132,
+      "DeltaY": -100.00000000060572,
+      "DeltaZ": 3000.0000000079817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21257,
+    "Guid": "ab9dbf85-b410-400c-a42c-601b2402ebba",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3050.000000000012,
+      "Y": 3050.000000000012,
+      "Z": 26999.999999999927
+    },
+    "EndPoint": {
+      "X": 2949.999999999414,
+      "Y": 2949.999999999414,
+      "Z": 30000.000000007934
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059799,
+      "DeltaY": -100.00000000059799,
+      "DeltaZ": 3000.000000008007,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21232,
+    "Guid": "8d3828ab-43ec-4601-ad54-3f8607130226",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 3050.000000000012,
+      "Y": 949.9999999999995,
+      "Z": 26999.999999999927
+    },
+    "EndPoint": {
+      "X": 2949.999999999406,
+      "Y": 1049.9999999998909,
+      "Z": 30000.00000000791
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000060572,
+      "DeltaY": 99.99999999989132,
+      "DeltaZ": 3000.0000000079817,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21742,
+    "Guid": "f7f12796-83ff-4d7e-b03c-7197c2e819f3",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2949.9999999999836,
+      "Y": 1050.0000000000011,
+      "Z": 30000.00000000004
+    },
+    "EndPoint": {
+      "X": 2849.9999999964484,
+      "Y": 2849.999999999373,
+      "Z": 32999.99999999606
+    },
+    "Geometry": {
+      "DeltaX": -100.0000000035352,
+      "DeltaY": 1799.9999999993718,
+      "DeltaZ": 2999.9999999960164,
+      "Length": 3500.0
+    }
+  },
+  {
+    "Id": 21715,
+    "Guid": "d51d3071-32f5-4d71-88bb-1367ab7a443d",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1050.0000000000011,
+      "Y": 1050.0000000000161,
+      "Z": 30000.00000000004
+    },
+    "EndPoint": {
+      "X": 2849.9999999993624,
+      "Y": 1150.0000000027776,
+      "Z": 32999.99999999604
+    },
+    "Geometry": {
+      "DeltaX": 1799.9999999993613,
+      "DeltaY": 100.00000000276145,
+      "DeltaZ": 2999.999999996002,
+      "Length": 3500.0
+    }
+  },
+  {
+    "Id": 21690,
+    "Guid": "e3a2ac64-9f0a-4379-a053-2f5776258e10",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0,
+      "Y": 2850.0,
+      "Z": 33000.0
+    },
+    "EndPoint": {
+      "X": 1150.0,
+      "Y": 1150.0,
+      "Z": 33000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -1700.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 21665,
+    "Guid": "ce12e134-b59f-45b1-9216-e75326bc2a9f",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0,
+      "Y": 2850.0,
+      "Z": 33000.0
+    },
+    "EndPoint": {
+      "X": 1150.0,
+      "Y": 2850.0,
+      "Z": 33000.0
+    },
+    "Geometry": {
+      "DeltaX": -1700.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 21640,
+    "Guid": "4c7a3f0a-5f09-422c-9f1d-1c9b64914d2c",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0,
+      "Y": 1150.0,
+      "Z": 33000.0
+    },
+    "EndPoint": {
+      "X": 2850.0,
+      "Y": 2850.0,
+      "Z": 33000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 1700.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 21615,
+    "Guid": "c86b701e-963b-467f-b8a3-55e055cb8ede",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0,
+      "Y": 1150.0,
+      "Z": 33000.0
+    },
+    "EndPoint": {
+      "X": 2850.0,
+      "Y": 1150.0,
+      "Z": 33000.0
+    },
+    "Geometry": {
+      "DeltaX": 1700.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 21590,
+    "Guid": "0c236e3d-d05e-4c07-affb-9aa3e5274ef9",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1050.0000000000114,
+      "Y": 2950.000000000012,
+      "Z": 29999.999999999927
+    },
+    "EndPoint": {
+      "X": 1149.9999999998774,
+      "Y": 2849.9999999993984,
+      "Z": 33000.0000000079
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999986608,
+      "DeltaY": -100.00000000061345,
+      "DeltaZ": 3000.0000000079744,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21565,
+    "Guid": "ac7bfff3-c668-4ccb-8650-230e2b1a42af",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2950.000000000012,
+      "Y": 2950.000000000012,
+      "Z": 29999.999999999927
+    },
+    "EndPoint": {
+      "X": 2849.999999999414,
+      "Y": 2849.999999999414,
+      "Z": 33000.00000000792
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000059799,
+      "DeltaY": -100.00000000059799,
+      "DeltaZ": 3000.0000000079963,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21540,
+    "Guid": "949e2773-d73e-47cd-a905-06dd78e54a16",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2950.000000000012,
+      "Y": 1050.0000000000114,
+      "Z": 29999.999999999927
+    },
+    "EndPoint": {
+      "X": 2849.9999999993984,
+      "Y": 1149.9999999998774,
+      "Z": 33000.0000000079
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000061345,
+      "DeltaY": 99.99999999986608,
+      "DeltaZ": 3000.0000000079744,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21515,
+    "Guid": "3d083ecd-c5e0-4374-8e94-dab795f9e4a0",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1050.0000000000114,
+      "Y": 1050.0000000000114,
+      "Z": 29999.999999999927
+    },
+    "EndPoint": {
+      "X": 1149.999999999893,
+      "Y": 1149.999999999893,
+      "Z": 33000.00000000788
+    },
+    "Geometry": {
+      "DeltaX": 99.99999999988154,
+      "DeltaY": 99.99999999988154,
+      "DeltaZ": 3000.0000000079526,
+      "Length": 3003.3
+    }
+  },
+  {
+    "Id": 21488,
+    "Guid": "b4890e15-fbc7-405d-978c-0a858b190f44",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 950.0000000000107,
+      "Y": 950.0000000000019,
+      "Z": 27000.00000000004
+    },
+    "EndPoint": {
+      "X": 1050.0000000018524,
+      "Y": 2950.0000000033633,
+      "Z": 30000.00000001886
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000184173,
+      "DeltaY": 2000.0000000033615,
+      "DeltaZ": 3000.0000000188193,
+      "Length": 3606.9
+    }
+  },
+  {
+    "Id": 24611,
+    "Guid": "86b8ced7-8fe0-4ee1-8a9b-e655560a9cbb",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 1100.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 2000.0,
+      "Y": 1100.0,
+      "Z": 42600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 24586,
+    "Guid": "8566ca83-35be-4fc2-a185-c0c426ac4348",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "ANTENNA_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 2000.0,
+      "Y": 1100.0,
+      "Z": 41400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -900.0,
+      "DeltaZ": 0.0,
+      "Length": 900.0
+    }
+  },
+  {
+    "Id": 24561,
+    "Guid": "1760fda8-cf26-4afc-ad5c-c8b359e6ddf2",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1100.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 1100.0,
+      "Y": 2000.0,
+      "Z": 42600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 24536,
+    "Guid": "234ef007-0780-418a-bc77-8e8e946631ea",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "ANTENNA_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 1100.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "Geometry": {
+      "DeltaX": -900.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 900.0
+    }
+  },
+  {
+    "Id": 24511,
+    "Guid": "ad8a873d-a80a-48d5-b487-b4ab97d320a0",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 2900.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 2000.0,
+      "Y": 2900.0,
+      "Z": 42600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 24486,
+    "Guid": "750169a5-3ae2-40bc-a096-35a751b189ba",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "ANTENNA_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 2000.0,
+      "Y": 2900.0,
+      "Z": 41400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 900.0,
+      "DeltaZ": 0.0,
+      "Length": 900.0
+    }
+  },
+  {
+    "Id": 24461,
+    "Guid": "714ff851-2be5-4de6-8d7a-ff13558b3857",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2900.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 2900.0,
+      "Y": 2000.0,
+      "Z": 42600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 24434,
+    "Guid": "be6c95d7-7dd7-49db-a37c-5c7c51e7e839",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "ANTENNA_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "EndPoint": {
+      "X": 2900.0,
+      "Y": 2000.0,
+      "Z": 41400.0
+    },
+    "Geometry": {
+      "DeltaX": 900.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 900.0
+    }
+  },
+  {
+    "Id": 24407,
+    "Guid": "aa849f4f-d4e7-499d-a2e3-ea63f703a709",
+    "Type": "COLUMN",
+    "Direction": "VERTICAL",
+    "Name": "COLUMN",
+    "Profile": "SHS100X100X5",
+    "Material": "S275",
+    "Class": "1",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2000.0,
+      "Y": 2000.0,
+      "Z": 40000.0
+    },
+    "EndPoint": {
+      "X": 2000.0,
+      "Y": 2000.0,
+      "Z": 42500.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 2500.0,
+      "Length": 2500.0
+    }
+  },
+  {
+    "Id": 24382,
+    "Guid": "d8bf2bff-84c0-4a16-b4b7-9eddaca2d69a",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 40000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 40000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24357,
+    "Guid": "2fc6b0ec-9100-4a9c-ae0d-c870aa458cd4",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 39200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 39200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 22826,
+    "Guid": "d7403847-472b-4519-8b94-5c6ed2bc99c1",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2150.0,
+      "Y": 2150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1799.9999999997635,
+      "Y": 1799.9999999997635,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": -350.00000000023647,
+      "DeltaY": -350.00000000023647,
+      "DeltaZ": 0.0,
+      "Length": 495.0
+    }
+  },
+  {
+    "Id": 22801,
+    "Guid": "33046690-ade2-461a-9931-100f404d8c01",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2150.0,
+      "Y": 2150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2850.000000000473,
+      "Y": 2850.000000000473,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 700.0000000004729,
+      "DeltaY": 700.0000000004729,
+      "DeltaZ": 0.0,
+      "Length": 989.9
+    }
+  },
+  {
+    "Id": 22776,
+    "Guid": "489f65ce-833f-4071-a80c-7bf28ae84809",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1800.0,
+      "Y": 2200.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1800.0,
+      "Y": 2200.0,
+      "Z": 34600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1800.0,
+      "Length": 1800.0
+    }
+  },
+  {
+    "Id": 22749,
+    "Guid": "b4ddd86f-b5a1-40ed-9154-0760826a7c54",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2150.0,
+      "Y": 1850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1799.9999999997635,
+      "Y": 2199.9999999997863,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": -350.00000000023647,
+      "DeltaY": 349.99999999978627,
+      "DeltaZ": 0.0,
+      "Length": 495.0
+    }
+  },
+  {
+    "Id": 22722,
+    "Guid": "9dc3d8fa-7150-4f06-9fe5-c0c4a9d3a47a",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2150.0,
+      "Y": 1850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2850.000000000473,
+      "Y": 1150.0000000004277,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 700.0000000004729,
+      "DeltaY": -699.9999999995723,
+      "DeltaZ": 0.0,
+      "Length": 989.9
+    }
+  },
+  {
+    "Id": 22697,
+    "Guid": "76c6173b-7217-4144-a0f9-3bf2bd23ae62",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2200.0,
+      "Y": 2200.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2200.0,
+      "Y": 2200.0,
+      "Z": 34600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1800.0,
+      "Length": 1800.0
+    }
+  },
+  {
+    "Id": 22670,
+    "Guid": "6f4eea32-73b5-4e66-8af8-dd272755aa49",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1850.0,
+      "Y": 1850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2199.9999999997863,
+      "Y": 2199.9999999997863,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 349.99999999978627,
+      "DeltaY": 349.99999999978627,
+      "DeltaZ": 0.0,
+      "Length": 495.0
+    }
+  },
+  {
+    "Id": 22643,
+    "Guid": "3f8462de-1212-4245-b352-b54a1ac3ca91",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1850.0,
+      "Y": 1850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1150.0000000004275,
+      "Y": 1150.0000000004275,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": -699.9999999995725,
+      "DeltaY": -699.9999999995725,
+      "DeltaZ": 0.0,
+      "Length": 989.9
+    }
+  },
+  {
+    "Id": 22618,
+    "Guid": "9fe4b762-45b8-4324-987c-93fa979b9a61",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0,
+      "Y": 2850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1150.0,
+      "Y": 2850.0,
+      "Z": 34000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 22593,
+    "Guid": "76abfdbd-cb56-4a52-ab79-8e1bb6f7d816",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0,
+      "Y": 2850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2850.0,
+      "Y": 2850.0,
+      "Z": 34000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 22568,
+    "Guid": "ad3daf5b-b735-47db-a2eb-e73eb7c97b7f",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0,
+      "Y": 1150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2850.0,
+      "Y": 1150.0,
+      "Z": 34000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 22541,
+    "Guid": "b5b4b2dc-95ac-4dd0-ac7e-cd1ac901fd4c",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0,
+      "Y": 1150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1150.0,
+      "Y": 1150.0,
+      "Z": 34000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1200.0,
+      "Length": 1200.0
+    }
+  },
+  {
+    "Id": 22516,
+    "Guid": "dece1ab5-8d08-4ec1-996d-932ba49510f7",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0,
+      "Y": 2850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1150.0,
+      "Y": 1150.0,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -1700.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 22491,
+    "Guid": "24f80b83-1c66-43ee-a2cf-277973130548",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0,
+      "Y": 2850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1150.0,
+      "Y": 2850.0,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": -1700.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 22466,
+    "Guid": "93812a2b-4c37-4634-9a12-45e924c57138",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2850.0,
+      "Y": 1150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2850.0,
+      "Y": 2850.0,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 1700.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 22439,
+    "Guid": "6bcee424-6a1a-4de1-ab71-2e8ffbffdbb4",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1150.0,
+      "Y": 1150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 2850.0,
+      "Y": 1150.0,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 1700.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 0.0,
+      "Length": 1700.0
+    }
+  },
+  {
+    "Id": 22412,
+    "Guid": "66558bce-6fdb-4606-bdf1-920e83bbb890",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1250.0000000000205,
+      "Y": 2750.0000000000005,
+      "Z": 36000.00000000002
+    },
+    "EndPoint": {
+      "X": 1350.0000000066493,
+      "Y": 1349.999999995187,
+      "Z": 39000.0000000267
+    },
+    "Geometry": {
+      "DeltaX": 100.00000000662885,
+      "DeltaY": -1400.0000000048135,
+      "DeltaZ": 3000.000000026681,
+      "Length": 3312.1
+    }
+  },
+  {
+    "Id": 22385,
+    "Guid": "c803f42d-1c32-4d6e-93b3-9ebbb9a5f0b9",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2750.0000000000005,
+      "Y": 2749.9999999999727,
+      "Z": 36000.00000000002
+    },
+    "EndPoint": {
+      "X": 1349.9999999951835,
+      "Y": 2649.9999999933893,
+      "Z": 39000.000000026695
+    },
+    "Geometry": {
+      "DeltaX": -1400.000000004817,
+      "DeltaY": -100.00000000658338,
+      "DeltaZ": 3000.0000000266737,
+      "Length": 3312.1
+    }
+  },
+  {
+    "Id": 22358,
+    "Guid": "371b76f1-3610-43c3-9899-a1742d3b8f15",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 2749.9999999999663,
+      "Y": 1250.0000000000093,
+      "Z": 36000.00000000001
+    },
+    "EndPoint": {
+      "X": 2649.9999999937113,
+      "Y": 2650.000000005448,
+      "Z": 39000.00000002711
+    },
+    "Geometry": {
+      "DeltaX": -100.00000000625505,
+      "DeltaY": 1400.0000000054386,
+      "DeltaZ": 3000.000000027103,
+      "Length": 3312.1
+    }
+  },
+  {
+    "Id": 22331,
+    "Guid": "13a690c5-67c5-4ae4-9c9a-937c3b98010e",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1250.0000000000093,
+      "Y": 1250.0000000000268,
+      "Z": 36000.00000000001
+    },
+    "EndPoint": {
+      "X": 2650.0000000054465,
+      "Y": 1350.0000000063274,
+      "Z": 39000.00000002711
+    },
+    "Geometry": {
+      "DeltaX": 1400.0000000054372,
+      "DeltaY": 100.00000000630052,
+      "DeltaZ": 3000.000000027103,
+      "Length": 3312.1
+    }
+  },
+  {
+    "Id": 22306,
+    "Guid": "ae0ec3e4-7f6c-4e76-a302-f507e436dc1a",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1350.0,
+      "Y": 2650.0,
+      "Z": 39000.0
+    },
+    "EndPoint": {
+      "X": 1350.0,
+      "Y": 1350.0,
+      "Z": 39000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": -1300.0,
+      "DeltaZ": 0.0,
+      "Length": 1300.0
+    }
+  },
+  {
+    "Id": 23351,
+    "Guid": "3b08d46d-1b6d-4a3d-b6ca-aae833b557b5",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 13600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 13600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23326,
+    "Guid": "04ec801d-206d-4d4d-b8d6-a637c13d9b1b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 12800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 12800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23301,
+    "Guid": "cc7161f3-a5b4-432d-bf57-f387832409ca",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 12000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 12000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23276,
+    "Guid": "a8150f38-2d83-4c96-bdb6-867946e5a543",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 11200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 11200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23251,
+    "Guid": "16c412f9-c722-4806-af8a-2718f35766d3",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 10400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 10400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23226,
+    "Guid": "e8f71a81-af92-4837-8671-39d6c63f26ca",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 9600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 9600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23201,
+    "Guid": "dc2db3a0-fb4c-4e64-80a5-02a97f46166d",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 8800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 8800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23176,
+    "Guid": "37111f26-ec64-473d-8f2a-c72621cf31a7",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 8000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 8000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23151,
+    "Guid": "915545e2-e6ed-4bf8-8ecc-85b3ab29c79c",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 7200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 7200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23126,
+    "Guid": "f9735654-8bf1-4883-ba5c-04e72eec4e1b",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 6400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 6400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23101,
+    "Guid": "62e7fcbc-d662-4b28-aabf-2bc7fcc457fd",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 5600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 5600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23807,
+    "Guid": "0bab7d6e-c931-4ab4-8e79-9d3e7e0302e9",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 21600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 21600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23782,
+    "Guid": "d55a7f57-2b33-4f82-af41-f3353ba0c1cf",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 20800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 20800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23757,
+    "Guid": "f89137c7-d7ea-4478-8c1f-add1e9764ac6",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 20000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 20000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23732,
+    "Guid": "e0da3fb7-166c-4d31-9532-2d2da3f94b6e",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 19200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 19200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23707,
+    "Guid": "79b658cf-9324-48f6-8b50-1ca5a64ca1e9",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 18400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 18400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23682,
+    "Guid": "65ae7c54-f881-4778-8de0-4c978d4be9e3",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 17600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 17600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23657,
+    "Guid": "34cceb6f-cb54-4a33-91d0-8629ffb2bdcb",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 16800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 16800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23426,
+    "Guid": "333a4955-f4b1-4434-bcb1-c14b1cd78817",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 16000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 16000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23401,
+    "Guid": "5e9a0231-e8b2-46d5-b347-c14c777f2115",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 15200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 15200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23376,
+    "Guid": "6d6d8458-7a20-4749-a46d-fa69abfa88c0",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 14400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 14400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24082,
+    "Guid": "2aabf00b-224b-499d-ab27-01854ab84f3a",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 30400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 30400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24057,
+    "Guid": "f9224d42-1b6b-4acf-bc60-82de378f41a5",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 29600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 29600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24032,
+    "Guid": "88b86ae5-a0d3-420d-8632-a9f6924cf578",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 28800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 28800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24007,
+    "Guid": "822ffbea-2e05-466a-af39-d5d075ed1bc2",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 28000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 28000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23982,
+    "Guid": "1fd442d7-a54a-42bf-95e9-0023b82d5c39",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 27200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 27200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23957,
+    "Guid": "902dc80f-80dd-445a-a7ac-466cbdb98d80",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 26400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 26400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23932,
+    "Guid": "b1f96dd3-5b3f-48b4-8235-cd815f73cf02",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 25600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 25600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23907,
+    "Guid": "b0ded3b7-6f23-4518-8399-3a67839571ad",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 24800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 24800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23882,
+    "Guid": "0571eaa8-887e-4848-9fb5-a27d4ba42957",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 24000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 24000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23857,
+    "Guid": "df7ffde5-c7a1-46cc-b6ce-c354d200e20c",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 23200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 23200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23832,
+    "Guid": "32ba1f06-d840-4387-a127-a74a4f9636d1",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 22400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 22400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23076,
+    "Guid": "cff87675-c9fe-4dd9-b346-00c686ea66d2",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 4800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 4800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23051,
+    "Guid": "e1894168-1756-499f-947d-ec97f1978f15",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 4000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 4000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23026,
+    "Guid": "31afb26f-718e-4f76-b222-810331dd43cb",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 3200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 3200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 23001,
+    "Guid": "590f0a9e-ac8e-4db0-9d7d-a35d937036b8",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 2400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 2400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 22976,
+    "Guid": "cd6e12bf-1a76-4ea6-8c04-6e3098456fd9",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 1600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 1600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 22951,
+    "Guid": "79b184a3-5ddf-4664-bc65-85f5bb640441",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 22926,
+    "Guid": "168c2f13-6b05-4738-9fe5-ea1ee81f11d3",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 0.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 40000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 40000.0,
+      "Length": 40000.0
+    }
+  },
+  {
+    "Id": 22901,
+    "Guid": "d0f20345-b9f6-4dfe-9875-785f4441e73b",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 0.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 40000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 40000.0,
+      "Length": 40000.0
+    }
+  },
+  {
+    "Id": 22876,
+    "Guid": "1c162465-5616-4099-a1bf-066fc01aacbb",
+    "Type": "BEAM",
+    "Direction": "HORIZONTAL",
+    "Name": "PLATFORM_BEAM",
+    "Profile": "RHS100X50X5",
+    "Material": "S275",
+    "Class": "2",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1850.0,
+      "Y": 2150.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1150.0000000004277,
+      "Y": 2850.000000000473,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": -699.9999999995723,
+      "DeltaY": 700.0000000004729,
+      "DeltaZ": 0.0,
+      "Length": 989.9
+    }
+  },
+  {
+    "Id": 22851,
+    "Guid": "31302224-b71c-476f-8ec8-e471ff6d97fc",
+    "Type": "SECONDARY",
+    "Direction": "VERTICAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1800.0,
+      "Y": 1800.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1800.0,
+      "Y": 1800.0,
+      "Z": 34600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 0.0,
+      "DeltaZ": 1800.0,
+      "Length": 1800.0
+    }
+  },
+  {
+    "Id": 24332,
+    "Guid": "05286313-a900-4d7f-b574-1edacb93520d",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 38400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 38400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24307,
+    "Guid": "8ca8f045-986d-4c84-be7a-44208c9ac324",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 37600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 37600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24282,
+    "Guid": "b07e2cc6-56d6-4e79-ac6d-5e6a8148b721",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 36800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 36800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24257,
+    "Guid": "dcaab72d-71cb-4816-9c98-34fa01c6e4cc",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 36000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 36000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24232,
+    "Guid": "3f9ac4c1-9107-4647-8ba7-b45e9f33b754",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 35200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 35200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24207,
+    "Guid": "d97b2619-7157-4e5e-980d-0342c1584c02",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 34400.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 34400.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24182,
+    "Guid": "da10d0f9-4137-4b20-9d82-6dc9cf049754",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 33600.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 33600.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24157,
+    "Guid": "113ae156-88d5-4bae-8e3e-5b262f7fa452",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 32800.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 32800.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24132,
+    "Guid": "638265ba-640f-4b61-bf1a-37897aecccc9",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 32000.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 32000.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  },
+  {
+    "Id": 24107,
+    "Guid": "a0d4e8d6-52bd-417d-a876-115516911d59",
+    "Type": "SECONDARY",
+    "Direction": "HORIZONTAL",
+    "Name": "SECONDARY",
+    "Profile": "L60X60X5",
+    "Material": "S275",
+    "Class": "3",
+    "Finish": "",
+    "StartPoint": {
+      "X": 1700.0,
+      "Y": 1850.0,
+      "Z": 31200.0
+    },
+    "EndPoint": {
+      "X": 1700.0,
+      "Y": 2150.0,
+      "Z": 31200.0
+    },
+    "Geometry": {
+      "DeltaX": 0.0,
+      "DeltaY": 300.0,
+      "DeltaZ": 0.0,
+      "Length": 300.0
+    }
+  }
+]
